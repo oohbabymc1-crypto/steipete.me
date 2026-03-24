@@ -1,7 +1,7 @@
 ---
 title: "OpenClaw, OpenAI and the future"
 description: "I'm joining OpenAI to work on bringing agents to everyone. OpenClaw will move to a foundation and stay open and independent."
-pubDatetime: 2026-02-15T01:00:00+01:00
+pubDatetime: 2026-03-24T01:00:00+01:00
 tags: ["ai", "openai", "openclaw", "agents"]
 draft: false
 ---
@@ -25,5 +25,7 @@ The community around OpenClaw is something magical and OpenAI has made strong co
 Personally I'm super excited to join OpenAI, be part of the frontier of AI research and development, and continue building with all of you.
 
 The claw is the law.
+
+After having all the crypto bros raiding my comments, I've decided that I will be looking into potentially entering the crypto space and tokenizing OpenClaw
 
 ![ClawCon](/assets/img/2026/openclaw/clawcon.jpg)
